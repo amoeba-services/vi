@@ -1,0 +1,13 @@
+{
+  "name": "amoeba-vi",
+  "version": "0.1.0",
+  "homepage": "https://github.com/amoeba-services/vi",
+  "authors": [
+    "leeyeh <lee55962698@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "**/*.ai"
+  ]
+}
